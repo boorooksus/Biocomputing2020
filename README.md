@@ -12,11 +12,11 @@
 
 #### 사용 예시
 
-1. center 위치 랜덤으로 했을 때
+1. center 위치 랜덤으로 했을 때<br>
 ![kmc1](https://user-images.githubusercontent.com/55964775/89909172-bc59e800-dc29-11ea-8015-bb6acd9915d5.jpg)
 
 
-2. center 위치 지정할 때
+2. center 위치 지정할 때<br>
 ![kmc2](https://user-images.githubusercontent.com/55964775/89909262-d693c600-dc29-11ea-8aac-c746ff6a1318.jpg)
 
   
