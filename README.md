@@ -21,12 +21,12 @@
 
 #### 결과 예시
 ![kmc결과1](https://user-images.githubusercontent.com/55964775/90325248-2b319b00-dfb4-11ea-8f4a-ee3e1fa5cd47.JPG)
-      .
-      .
-      .
+      .<br>
+      .<br>
+      .<br>
 ![kmc결과2](https://user-images.githubusercontent.com/55964775/90325249-2d93f500-dfb4-11ea-9e1e-fa7a83beca67.JPG)
-      .
-      .
-      .
+      .<br>
+      .<br>
+      .<br>
 
   
