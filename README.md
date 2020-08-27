@@ -1,6 +1,11 @@
 # Biocomputing2020
 
-### K-Means Clustering를 이용한 데이터 클러스터링
+### 1_k-nearest_neighbor
+
+#### 프로그램 설명
+- 파이썬을 통해 구현한 k-nearest neighbor을 이용하여 ribosomal/non-ribosomal 단백질 classification.
+
+***
 
 ### 2_K-Means_Clustering
 
