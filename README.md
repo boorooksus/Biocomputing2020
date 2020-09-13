@@ -17,6 +17,8 @@
 #### 결과 예시
 ![image](https://user-images.githubusercontent.com/55964775/93007255-e3496800-f5a1-11ea-8dac-3ac9237f9cf0.png)
 
+#### input 데이터 설명
+121개의 ribo 단백질, 2346개의 nonribo 단백질들을 79가지 실험 결과에 따라 나온 수치값들을 각각 기록한 것입니다. 행은 각 단백질 종류를 열을 실험 결과에 따른 수치를 나타냅니다. group1 ~ group5는 각각 ribo/nonribo 데이터 중 일부를 test 데이터로 분리시킨 것입니다. test 데이터를 이 프로그램을 통해 ribo 또는 nonribo 단백질로 classification할 수 있습니다.
 
 ***
 
